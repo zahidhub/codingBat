@@ -9,7 +9,7 @@ sleepIn(false, true) → true
 
 
 
-public class sleepInCheck {
+public class SleepInCheck {
     public static void main(String[] args) {
 
         System.out.println(sleepIn(false, false));;
